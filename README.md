@@ -8,4 +8,7 @@ key caps used for this macropad are open source project from tinkercad only resi
 
 ![IMG_1511](https://github.com/user-attachments/assets/b2050bc8-fe55-464a-8d63-0f8ece7cef50)
 
+![image](https://github.com/user-attachments/assets/258dbead-e4c2-4957-a1fd-5a3f20068e41)
+
+![image](https://github.com/user-attachments/assets/54d76c6c-5649-4f70-ab5c-6f70ec2af1da)
 
