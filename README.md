@@ -13,6 +13,9 @@ The PCB has a defect because the buttons are a bit mixed up, but everything is f
 
 ![image](https://github.com/user-attachments/assets/54d76c6c-5649-4f70-ab5c-6f70ec2af1da)
 
+# Softwear screen
+![Zrzut ekranu 2025-05-10 101927](https://github.com/user-attachments/assets/cc87d91d-b45b-4014-aa7c-ca97a27db671)
+
 # Finished project on my desk
 ![IMG_1511](https://github.com/user-attachments/assets/b2050bc8-fe55-464a-8d63-0f8ece7cef50)
 
