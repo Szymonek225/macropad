@@ -7,7 +7,7 @@ this case project is avaible here: https://www.tinkercad.com/things/39eiJZf7UdZ-
 key caps used for this macropad are open source project from tinkercad only resised to size of the pcb: https://www.tinkercad.com/things/52JkWN0PGkx-batman-keycaps
 # PCB
 
-## The PCB has a defect because the buttons are a bit mixed up, but everything is fixed in the software
+The PCB has a defect because the buttons are a bit mixed up, but everything is fixed in the software
 
 ![image](https://github.com/user-attachments/assets/258dbead-e4c2-4957-a1fd-5a3f20068e41)
 
